@@ -7,5 +7,5 @@
   <li>DES</li>
   <li>Diffie-Hellman algorithm</li>
   <li>Vigenere chipher</li>
-  <li>Magic Square</li>
+  <li>Magic Square chipher</li>
 </ol>
